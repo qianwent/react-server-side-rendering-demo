@@ -1,0 +1,24 @@
+.main-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.main-container p {
+    padding: 10px;
+    font-size: 14px;
+    color: #666;
+    line-height: 32px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.main-container .button {
+    padding: 8px 15px;
+    color: #777;
+    border: 1px solid #eeeeee;
+    cursor: pointer;
+    border-radius: 3px;
+    margin: 0 auto;
+}

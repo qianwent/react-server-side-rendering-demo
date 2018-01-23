@@ -1,0 +1,7 @@
+/app/constants/Config.js
+/node_modules
+/npm-debug.log
+/build
+.vagrant
+.idea
+ add /static/vendor
